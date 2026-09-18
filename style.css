@@ -536,6 +536,14 @@ align-items: center;
 
     color: #ffd6df;
 }
+.open-card img {
+    width: 80%;
+    height: 120px;
+    object-fit: cover;
+    border-radius: 15px;
+    display: block;
+    margin: 0 auto 15px;
+}
 
 
 /* =====================================================
