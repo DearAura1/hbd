@@ -217,7 +217,7 @@ if (imageModal) {
 */
 
 const birthdayDate =
-    new Date("September 26, 2026 00:00:00").getTime();
+    new Date("September 26, 2027 00:00:00").getTime();
 
 
 function updateCountdown() {
